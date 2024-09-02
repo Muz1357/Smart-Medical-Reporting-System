@@ -37,4 +37,4 @@ Intuitive and user-friendly interfaces for both doctors and patients to view and
 
 ## Flow Chart
 
-![Architecture]()
+![Architecture](https://raw.githubusercontent.com/Muz1357/Smart-Medical-Reporting-System/9dfa50351e5f0762229f9ab8e9885777f4001136/Flow%20chart.png)
